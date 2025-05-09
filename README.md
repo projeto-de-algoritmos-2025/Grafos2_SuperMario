@@ -68,13 +68,13 @@ Com esse projeto, os conceitos de grafos estudados em sala foram aplicados em um
 Aqui está disponível o [vídeo]() da apresentação do projeto.
 
 ## Screenshots
-Funcionamento do BFS:
+Funcionamento do Dijkstra:
 <center>
   <img src="assets/" alt="">
   <img src="assets/" alt="">
 </center>
 
-Funcionamento do DFS:
+Funcionamento do Prim:
 <center>
   <img src="assets/.png" alt="">
 
@@ -84,5 +84,5 @@ Funcionamento do DFS:
 **Linguagem**: Python (qualquer versão a partir da versão partir da 3.6.)<br>
 
 ## Uso 
-Após garantir a instalação do Python, para rodar o código de Dijkstra basta estar na pasta do projeto e digitar `Dijkstra.py` no terminal. <br>
-De maneira análoga, para rodar o código de Prim basta estar na página do projeto e digitar `Prim.py`.
+Após garantir a instalação do Python, para rodar o código de Dijkstra basta estar na pasta do projeto e digitar `python Dijkstra.py` no terminal. <br>
+De maneira análoga, para rodar o código de Prim basta estar na página do projeto e digitar `python Prim.py`.
