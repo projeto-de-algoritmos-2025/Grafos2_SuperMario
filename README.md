@@ -45,24 +45,9 @@ O algoritmo de **Prim** constrói uma **árvore geradora mínima**, conectando t
 
 ---
 
-## Aplicações do Algoritmo de Kruskal
-
-Assim como Prim, o algoritmo de **Kruskal** também gera uma árvore mínima, porém parte das arestas mais leves primeiro, sendo ideal para trabalhar com mapas esparsos.
-
-### Exemplo prático: Otimização das rotas entre mundos
-- **Objetivo:** Selecionar os melhores caminhos possíveis entre todas as fases sem formar ciclos, priorizando conexões mais vantajosas.
-
-#### Função: `Kruskal(mapa)`
-- Garante que o mapa tenha a menor soma de custos nas rotas.
-- Pode ser usado para reestruturar o mapa do jogo de forma estratégica.
-
----
-
 ## Conclusão
 
 Com esse projeto, os conceitos de grafos estudados em sala foram aplicados em um cenário lúdico e interativo, permitindo visualizar com clareza como esses algoritmos funcionam em contextos práticos de planejamento, navegação e otimização.
-
-
 
 ### Vídeo da Apresentação:
 Aqui está disponível o [vídeo]() da apresentação do projeto.
