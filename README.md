@@ -60,7 +60,7 @@ Funcionamento do Dijkstra:
 
 Funcionamento do Prim:
 <center>
-  <img src="assets/.png" alt="">
+  <img src="assets/print_fases.png" alt="print fases">
 
 </center>
 
