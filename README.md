@@ -70,8 +70,7 @@ Aqui está disponível o [vídeo]() da apresentação do projeto.
 ## Screenshots
 Funcionamento do Dijkstra:
 <center>
-  <img src="assets/" alt="">
-  <img src="assets/" alt="">
+  <img src="assets/print_castelo.png" alt="print castelo">
 </center>
 
 Funcionamento do Prim:
@@ -84,5 +83,5 @@ Funcionamento do Prim:
 **Linguagem**: Python (qualquer versão a partir da versão partir da 3.6.)<br>
 
 ## Uso 
-Após garantir a instalação do Python, para rodar o código de Dijkstra basta estar na pasta do projeto e digitar `python Dijkstra.py` no terminal. <br>
-De maneira análoga, para rodar o código de Prim basta estar na página do projeto e digitar `python Prim.py`.
+Após garantir a instalação do Python, para rodar o código de Dijkstra basta estar na pasta do projeto e digitar `python caminho_castelo.py` no terminal. <br>
+De maneira análoga, para rodar o código de Prim basta estar na página do projeto e digitar `python montando_fases.py`.
