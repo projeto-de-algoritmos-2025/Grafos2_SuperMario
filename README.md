@@ -50,7 +50,7 @@ O algoritmo de **Prim** constrói uma **árvore geradora mínima**, conectando t
 Com esse projeto, os conceitos de grafos estudados em sala foram aplicados em um cenário lúdico e interativo, permitindo visualizar com clareza como esses algoritmos funcionam em contextos práticos de planejamento, navegação e otimização.
 
 ### Vídeo da Apresentação:
-Aqui está disponível o [vídeo]() da apresentação do projeto.
+Aqui está disponível o [vídeo](https://youtu.be/q0TPJ1egDHo?si=YDIUIIp_Xct8dVAy) da apresentação do projeto.
 
 ## Screenshots
 Funcionamento do Dijkstra:
